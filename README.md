@@ -6,7 +6,7 @@ I'm a passionate Computer Science student and sustainable technology enthusiast 
 
 - 🔭 Currently working on: Building Articul8 AI (Gen AI Enterprise) and contributing in UAIpy Open-Source Project
 - 🌱 Learning about: Machine Learning, IoT, and Sustainable tech projects
-- 💬 Ask me about: Anything tech-related, especially sustainable technology
+- 💬 Ask me about: Anything tech-related, especially GenAI and sustainable technology
 - 📫 How to reach me: [Email](andrevicente.ufu@gmail.com) or [LinkedIn](https://linkedin.com/in/andrelvicent)
 
 ## 🔧 Technologies & Tools
